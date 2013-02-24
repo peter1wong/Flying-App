@@ -1,0 +1,18 @@
+{
+    "version": "1",
+    "name": "Flying App",
+    "launch_path": "/Flying-App/index.html",
+    "description": "My first flying app",
+    "icons": {
+        "32": "/Flying-App/images/icon-30.png",
+        "48": "/Flying-App/images/icon-48.png",
+        "64": "/Flying-App/images/icon-64.png",
+        "128": "/Flying-App/images/icon-128.png"
+    },
+    "developer": {
+        "name": "Peter Wong",
+        "url": "http://petkatan.blogspot.co.nz"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
