@@ -88,7 +88,7 @@ var player = new (function(){
 	var that = this;
 	that.image = new Image();
 
-	that.image.src = "/images/rocket.png"
+	that.image.src = "/images/rocket.png";
 	that.width = 65;
 	that.height = 95;
 	that.frames = 1;
