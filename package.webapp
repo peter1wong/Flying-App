@@ -1,0 +1,9 @@
+{
+    "name": "rocket",
+    "package_path" : "http://localhost/rocket/rocket.zip",
+    "version": "0.0.1",
+    "developer": {
+        "name": "Peter Wong",
+        "url": "http://petkatan.blogspot.co.nz"
+    }
+}
